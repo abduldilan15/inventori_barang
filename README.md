@@ -38,7 +38,6 @@ Adapun beberapa fitur yang tersedia pada aplikasi ini adalah sebagai berikut:
   - Barang Keluar
 - Ubah nama, username, status dan password
   
-Aplikasi ini merupakan pengembangan dari Blog <a href="https://muhamadyusufppn.blogspot.com/p/aplikasi-inventori-barang-dengan-java.html" target="_blank">Muhamad Yusuf</a>
-dengan penambahan fitur enkripsi password dengan metode Bcrypt.
+
 
 
