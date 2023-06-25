@@ -41,14 +41,4 @@ Adapun beberapa fitur yang tersedia pada aplikasi ini adalah sebagai berikut:
 Aplikasi ini merupakan pengembangan dari Blog <a href="https://muhamadyusufppn.blogspot.com/p/aplikasi-inventori-barang-dengan-java.html" target="_blank">Muhamad Yusuf</a>
 dengan penambahan fitur enkripsi password dengan metode Bcrypt.
 
-# Kontributor
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/muhamadyusuf"><img src="https://avatars0.githubusercontent.com/u/4905323?s=460&v=4" width="120px;" alt=""/><br /><sub><b>Muhamad Yusuf</b></sub></a><br /><a href="#content-muhamadyusuf" title="Content">🖋</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rinaldipratama"><img src="https://avatars0.githubusercontent.com/u/71593600?v=4" width="120px;" alt=""/><br /><sub><b>Rinaldi Pratama Putra</b></sub></a><br /><a href="#content-rinaldipratama" title="Content">🖋</a>
-    </td>
-  </tr>
-</table>
+
